@@ -1,0 +1,33 @@
+
+.rectangle{
+	height:200px;
+	width:400px;
+	margin:auto;
+	position:absolute;
+	top:0;
+	bottom:0;
+	left:0;
+	right:0;
+	border:1px solid;
+	background-color:#ccc;
+}
+
+.circleTop{
+	width:50px;
+	height:50px;
+	background:#fc0;
+	position:absolute;
+	left:0;
+	top:0;
+	border-bottom-right-radius: 100%;
+}
+
+.circleBottom{
+	width:50px;
+	height:50px;
+	background:#fc0;
+	position:absolute;
+	right:0;
+	bottom:0;
+	border-top-left-radius: 100%;
+}
