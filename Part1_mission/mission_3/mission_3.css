@@ -1,0 +1,48 @@
+.main{
+	padding:20px;
+	border:1px #999;
+	background-color:#eee;
+	overflow: auto;
+	
+}
+.figure{
+	float:left;
+	border: 1px solid;
+	display:inline-block;
+	width:160px;
+	padding:20px;
+	background-color:white;
+}
+
+.img{
+	float:left;
+	display: inline-block;
+}
+.teamName{
+	float:right;
+	display: inline-block;
+}
+
+.logo{
+	width:120px;
+	border: 1px solid;
+	float:right;
+	background-color:white;
+}
+
+.individual{
+	display: block;
+	border: 1px solid;
+	margin:20px;
+}
+
+.introduction{
+	border:1px solid;
+	margin-left: 240px;
+	margin-right:160px;	
+	background-color:white;
+	width:auto;
+}
+body{
+	padding:20px;
+}
